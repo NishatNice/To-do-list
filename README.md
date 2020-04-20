@@ -1,4 +1,4 @@
-package to.pkgdo.list;
+package project;
 import java.util.Date;
 import java.util.Scanner;
 public class Task extends Date
